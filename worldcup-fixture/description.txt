@@ -1,0 +1,30 @@
+Home:
+    Cards para navegar
+
+Fixture:
+    Tabla de puntos global
+    Necesita login para guardar predicciones
+    Adivina ganador: +1
+    Adivina resultado: +3
+
+Countries:
+    Lista de banderas con nombres
+    Al entrar a uno:
+        Alineacion preferida y suplentes
+        Dt
+        Goles totales y durante el mundial
+        Goleador
+        Tarjetas totales y durante el mundial
+        Trofeos y trofeo mas reciente
+
+Satistics (del mundial):
+    Goles totales
+    Goleador
+    Tiros libres
+    Tarjetas
+    Penales
+    Dif de gol ganadores
+
+Profile:
+    Nombre etc
+    Fixture y puntos
